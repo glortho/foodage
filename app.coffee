@@ -1,2 +1,2 @@
 app.get '/', ->
-  'Hello World!'
+  @eco 'layout'
